@@ -1,4 +1,4 @@
-linkit Sales & Inventory Analysis
+Blinkit Sales & Inventory Analysis
 
  Project Overview
 
